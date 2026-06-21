@@ -1,16 +1,40 @@
-# React + Vite
+Portfolio - Akanksha Maurya
+Welcome to my personal portfolio repository! This project serves as a centralized platform to showcase my technical skills, projects, and progress as a Computer Science student.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 About the Project
+This portfolio is a responsive web application built to document my journey in software development. It highlights my core competencies in full-stack development, Java, and Data Structures & Algorithms (DSA).
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Development: JavaScript (ES6+), HTML5, CSS3
 
-## React Compiler
+Tools: Git, VS Code
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+📂 Key Features
+Interactive Hero Section: Quick introduction with smooth hover effects.
 
-## Expanding the ESLint configuration
+Project Showcase: Detailed view of my full-stack projects with GitHub and live links.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Coding Milestones: Visual representation of my progress on platforms like LeetCode and GeeksforGeeks.
+
+Responsive Design: Fully optimized for mobile and desktop viewports.
+
+💻 Projects
+Student Management System: A full-stack application for efficient student data management.
+
+Smart Student Dashboard: A personalized academic tracker for notes and resources.
+
+Student Complaint Portal: A bridge between students and administration for issue resolution.
+
+📈 Coding Stats
+LeetCode: 110+ problems solved.
+
+GeeksforGeeks: 117+ problems solved, Institute Rank: 136.
+
+📬 Connect with Me
+GitHub: Coder-Akanksha
+
+LinkedIn: 
+
+Email: Shivi.aka1810@gmail.com
